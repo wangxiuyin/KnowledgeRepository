@@ -1,2 +1,2 @@
 # KnowledgeRepository
-个人知道仓库
+个人知识仓库
